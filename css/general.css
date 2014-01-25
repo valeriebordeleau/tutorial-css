@@ -28,7 +28,7 @@ h1 {
     font-size: 3rem; 
 }
 
-/* 1rem=16px */
+/* 1rem = 16px */
 
 p,
 li {
@@ -62,11 +62,10 @@ li {
     color: #F00;
 }
 
-ol li: first-child { 
+ol li:first-child { 
     background-color: #000;
 }
 
-ol li: last-child {
+ol li:last-child {
     background-color: #F90;
 }
-
